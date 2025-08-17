@@ -305,6 +305,14 @@ body.scale-cv{
     font-size: var(--h3-font-size);
 }
 
+.experience__subtitle{
+    font-size: var(--normal-font-size);
+    color: var(--title-color);
+    font-weight: var(--font-medium);
+    margin-top: var(--mb-1);
+    margin-bottom: var(--mb-1);
+}
+
 .education__studies,
 .experience__company{
     font-size: var(--small-font-size);
